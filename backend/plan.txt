@@ -1,0 +1,36 @@
+Data Sources
+
+You need original data, so scrape from:
+    -Job boards
+    -Remote job websites
+    -Company career pages
+    -Tech blogs
+    -GitHub trending repositories
+
+Information to Collect
+    -Job Title
+    -Company Name
+    -Location
+    -Experience Required
+    -Salary (if available)
+    -Skills Required
+    -Job Description
+    -Employment Type
+    -Posting Date
+
+Example:
+
+{
+  "title": "Frontend Developer",
+  "company": "ABC Tech",
+  "location": "Lahore",
+  "experience": "2 years",
+  "skills": [
+    "React",
+    "TypeScript",
+    "Node.js",
+    "Docker"
+  ],
+  "salary": "150k PKR",
+  "date": "2026-06-20"
+}
